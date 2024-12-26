@@ -6,10 +6,10 @@ My Python Library is a Python package designed to provide [brief description of 
 
 ## Installation
 
-To install the library, you can use pip:
+To install the library, you can use pip and the `requirements.txt` file:
 
 ```
-pip install my-python-library
+pip install -r requirements.txt
 ```
 
 ## Usage
